@@ -1,0 +1,15 @@
+Lacteos
+>Leche
+>Queso
+>Yogurt
+Botanas
+>Papitas
+>Refrescos
+>Dips
+Farmacia
+>Dental
+>>Pasta dientes
+>>Hilo dental
+>Primeros auxilios
+>>Curitas
+>>Alcohol

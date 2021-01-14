@@ -1,0 +1,53 @@
+Hard Drive
+>Applications
+>>Adobe Illustrator.app
+>>Adobe Photoshop.app
+>>MAMP.app
+>>App Store.app
+>>Atom.app
+>>Calculator.app
+>>Utilities
+>>>Activity Monitor.app
+>>>Console.app
+>>>Terminal.app
+>>>XQuartz.app
+>>Calendar.app
+>>Google Chrome.app
+>>iTunes.app
+>Users
+>>antoniotarin
+>>>Desktop
+>>>>Gluten
+>>>>>Cocina.txt
+>>>>>Colores.txt
+>>>>>Dir.h
+>>>>>FileTree.txt
+>>>>>Gluten.cpp
+>>>>>Gluten.out
+>>>>>Países.txt
+>>>>>Perros.txt
+>>>>>Super.txt
+>>>>Métodos
+>>>>>Ajuste.pdf
+>>>>>Laboratorio.pdf
+>>>>>Resultados.pdf
+>>>>Respaldo.zip
+>>>>OpenGL Project.key
+>>>Documents
+>>>Google Drive
+>>>>Personal
+>>>>>My Finances.xls
+>>>>>Curriculum.pdf
+>>>>School
+>>>>>Desarrollo Web
+>>>>>Estética de medios
+>>>>>Factibilidad
+>>>>>Gráficas computacionales
+>>>>>Métodos
+>>>>>Taller de innovación
+>>>>Work
+>>>Pictures
+>>>Downloads
+>>Guests
+>>Shared
+>Library
